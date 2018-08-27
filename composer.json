@@ -1,0 +1,15 @@
+{
+    "name": "dell/packagetest",
+    "authors": [
+        {
+            "name": "Eric",
+            "email": "782934029@qq.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Aex\\Packagetest\\": "src/"
+        }
+    }
+}
